@@ -1,0 +1,2 @@
+# Aprendizado C# e .NET
+Este é um repositório simples que criei apenas para armazenar os código simples que criei durante meu processo de aprendizagem do .NET via [Microsoft Learn](https://learn.microsoft.com/pt-br/).
