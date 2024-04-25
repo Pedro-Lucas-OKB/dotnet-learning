@@ -1,6 +1,6 @@
 [submodule "Introducao ao .NET/mslearn-dotnet-files"]
 	path = Introducao ao .NET/mslearn-dotnet-files
-	url = C:\\Users\\pedro\\Desktop\\ASP .NET\\Introducao ao .NET\\mslearn-dotnet-files
+	url = https://github.com/Pedro-Lucas-OKB/mslearn-dotnet-files
 [submodule "Razor Pages/mslearn-create-razor-pages-aspnet-core"]
 	path = Razor Pages/mslearn-create-razor-pages-aspnet-core
-	url = C:\\Users\\pedro\\Desktop\\ASP .NET\\Razor Pages\\mslearn-create-razor-pages-aspnet-core
+	url = https://github.com/Pedro-Lucas-OKB/mslearn-create-razor-pages-aspnet-core
